@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="13px" viewBox="0 0 7 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>back</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.415686 0 0 0 0 0.686275 0 0 0 0 0.031373 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-page" transform="translate(-1411.000000, -1724.000000)">
+            <g id="Gallery" transform="translate(0.000000, 1617.000000)">
+                <g id="nav" transform="translate(751.000000, 96.000000)">
+                    <g id="back" transform="translate(638.000000, 0.000000)" filter="url(#filter-1)">
+                        <g transform="translate(22.000000, 11.000000)">
+                            <path d="M1.21018333,6.47100417 L6.83159167,0.849595833 C7.02592917,0.655229167 7.02592917,0.3401125 6.83159167,0.145745833 C6.63719583,-0.0485625 6.32210833,-0.0485625 6.12774167,0.145745833 L0.154408333,6.11907917 C-0.0399,6.31344583 -0.0399,6.6285625 0.154408333,6.82292917 L6.12774167,12.7962625 C6.32549167,12.9872458 6.64060833,12.9817625 6.83159167,12.7840125 C7.01787917,12.5911042 7.01787917,12.2852917 6.83159167,12.0924125 L1.21018333,6.47100417 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

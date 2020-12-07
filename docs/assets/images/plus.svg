@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>plus (1)</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-page" transform="translate(-695.000000, -2053.000000)">
+            <g id="Gallery" transform="translate(0.000000, 1617.000000)">
+                <g id="Projects" transform="translate(398.000000, 213.000000)">
+                    <g id="plus-(1)" transform="translate(281.000000, 207.000000)" filter="url(#filter-1)">
+                        <g transform="translate(16.000000, 16.000000)">
+                            <path d="M12.1428571,8.21428571 C11.9456264,8.21428571 11.7857143,8.05437362 11.7857143,7.85714286 L11.7857143,0 L8.21428571,0 L8.21428571,7.85714286 C8.21428571,8.05437362 8.05437362,8.21428571 7.85714286,8.21428571 L0,8.21428571 L0,11.7857143 L7.85714286,11.7857143 C8.05437362,11.7857143 8.21428571,11.9456264 8.21428571,12.1428571 L8.21428571,20 L11.7857143,20 L11.7857143,12.1428571 C11.7857143,11.9456264 11.9456264,11.7857143 12.1428571,11.7857143 L20,11.7857143 L20,8.21428571 L12.1428571,8.21428571 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
